@@ -1,2 +1,2 @@
 # Codsoft1
-My personal portfolio website built with HTML, CSS, and JavaScript.
+My personal Portfolio website built with HTML, CSS, and JavaScript.
